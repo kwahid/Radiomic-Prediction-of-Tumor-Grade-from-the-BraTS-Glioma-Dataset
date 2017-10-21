@@ -2,10 +2,10 @@
 Folder corresponding to 2017 summer/fall project at MD Anderson Cancer Center. Correspondance: kareem.a.wahid@uth.tmc.edu.
 
 ## This repo contains the following files: 
-Folder containing csv files neccessary for running notebook (grades_t1ce_label1, grades_t1ce_label4, grades_flair_label2). <br><br>
-Jupyter notebook of code implementation (Radiomic Prediction of Tumor Grade and Overall Survival from the BraTS Glioma Dataset.ipynb). <br><br>
-HTML copy of Jupyter notebook (Radiomic+Prediction+of+Tumor+Grade+and+Overall+Survival+from+the+BraTS+Glioma+Dataset).<br><br>
-Parameter file used in radiomic feature extaction (Params.yaml). <br><br>
+Folder containing input files neccessary for running notebook (grades_t1ce_label1.csv, grades_t1ce_label4.csv, grades_flair_label2.csv). <br><br>
+Jupyter notebook of code implementation (Radiomic Glioma Prediction Jupyter Notebook.ipynb). <br><br>
+HTML copy of Jupyter notebook (Radiomic Glioma Prediction Jupyter Notebook.html).<br><br>
+Parameter file used in radiomic feature extaction (exampleMR_NoResampling.yaml). <br><br>
 2 picture files used in the notebook (workflow_figure.png, workflow_overview.png). <br><br>
 
 ## Utilized the following python libraries in project: 
